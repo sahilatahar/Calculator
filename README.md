@@ -2,6 +2,7 @@
 
 A new Flutter Calculator project.
 
+## 📷 Screenshots
 <table>
   <tr>
   <th>Light Mode</th>
