@@ -2,7 +2,22 @@
 
 A new Flutter Calculator project.
 
-| Light Mode | Dark Mode |
-| --- | --- |
-| <img src="screenshots/1.png" style="width: 50%;"> | <img src="screenshots/2.png" style="width: 50%;"> |
-| <img src="screenshots/3.png" style="width: 50%;"> | <img src="screenshots/4.png" style="width: 50%;"> |
+<table>
+  <tr>
+  <th>Light Mode</th>
+  <th>Dark Mode </th>
+  </tr>
+  <tr>
+  <td><img src="screenshots/1.png">
+  </td>
+  <td><img src="screenshots/2.png">
+  </td>   
+  </tr>
+   <tr>
+  <td><img src="screenshots/3.png">
+  </td>
+  <td><img src="screenshots/4.png">
+  </td>   
+  </tr>
+</table>
+  
